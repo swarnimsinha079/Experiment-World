@@ -1,0 +1,6 @@
+{
+  "name": "VirtuLab: 3D Sci-Math",
+  "description": "Interactive 3D Science Lab and Mathematics Visualization environment for students and teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Science Atom Orbit -->
+    <path
+        android:pathData="M54,20 C72.78,20 88,35.22 88,54 C88,72.78 72.78,88 54,88 C35.22,88 20,72.78 20,54 C20,35.22 35.22,20 54,20 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#3300E5FF" />
+    <!-- Lab Flask / Beaker Body -->
+    <path
+        android:pathData="M48,34 L60,34 L60,44 L72,66 C73.5,69 71.5,73 68,73 L40,73 C36.5,73 34.5,69 36,66 L48,44 Z"
+        android:strokeWidth="3"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Liquid Level inside Flask -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M42,68 L66,68 L61,58 L47,58 Z" />
+    <!-- Flask Neck Lip -->
+    <path
+        android:pathData="M46,34 L62,34"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+    <!-- Reaction Spark Dots -->
+    <path
+        android:fillColor="#FF9100"
+        android:pathData="M54,50 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#18FFFF"
+        android:pathData="M58,44 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M50,42 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Mathematical Delta / Integral / Sigma Accent Symbol -->
+    <path
+        android:pathData="M74,32 L82,46 L66,46 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#7C4DFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
